@@ -1,0 +1,4 @@
+#!/bin/bash
+#SBATCH --mail-user=EMAIL_REMOVED
+#SBATCH --mail-type=ALL
+bash generate_marklong_contours.sh $1 $2
