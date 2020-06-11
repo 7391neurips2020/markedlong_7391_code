@@ -2,7 +2,7 @@
 
 In this repository, we host the code used to generate our MarkedLong dataset.
 
-Script required to regenerate MarkedLong dataset: bash marklong_job_runner.sh
+Script required to regenerate MarkedLong dataset: `bash marklong_job_runner.sh`
 
 The dataset was generated on a slurm compute cluster in parallel.
 
